@@ -1,0 +1,11 @@
+﻿  msv.cpp
+D:\C\selfmimikatz\msv\msv.cpp(16,29): error C3646: “ImageName”: 未知重写说明符
+D:\C\selfmimikatz\msv\msv.cpp(16,38): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C\selfmimikatz\msv\msv.cpp(29,45): error C2065: “SystemProcessInformation”: 未声明的标识符
+D:\C\selfmimikatz\msv\msv.cpp(29,20): error C3861: “NtQuerySystemInformation”: 找不到标识符
+D:\C\selfmimikatz\msv\msv.cpp(33,9): error C3861: “NT_SUCCESS”: 找不到标识符
+D:\C\selfmimikatz\msv\msv.cpp(33,28): warning C4805: “==”: 在操作中将类型“unknown-type”与类型“bool”混合不安全
+D:\C\selfmimikatz\msv\msv.cpp(39,22): error C2039: "ImageName": 不是 "_SYSTEM_PROCESS_INFO" 的成员
+D:\C\selfmimikatz\msv\msv.cpp(8): message : 参见“_SYSTEM_PROCESS_INFO”的声明
+D:\C\selfmimikatz\msv\msv.cpp(39,67): error C2039: "ImageName": 不是 "_SYSTEM_PROCESS_INFO" 的成员
+D:\C\selfmimikatz\msv\msv.cpp(8): message : 参见“_SYSTEM_PROCESS_INFO”的声明

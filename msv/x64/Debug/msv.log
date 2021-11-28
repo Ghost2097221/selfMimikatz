@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\C\selfmimikatz\msv\main.cpp(72,64): warning C4101: “kuhl_m_sekurlsa_dpapi_svc_package”: 未引用的局部变量
+  msv.vcxproj -> D:\C\selfmimikatz\msv\x64\Debug\msv.exe

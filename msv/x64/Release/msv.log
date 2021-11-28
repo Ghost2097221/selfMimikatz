@@ -1,0 +1,4 @@
+﻿  main.cpp
+  process.cpp
+process.obj : error LNK2001: 无法解析的外部符号 "long __cdecl RtlAdjustPrivilege(unsigned long,int,int,unsigned long *)" (?RtlAdjustPrivilege@@YAJKHHPEAK@Z)
+D:\C\selfmimikatz\msv\x64\Release\msv.exe : fatal error LNK1120: 1 个无法解析的外部命令
